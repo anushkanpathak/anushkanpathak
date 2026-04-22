@@ -200,8 +200,7 @@ Frontend → Backend API → ML Models
 
 ---
 
-## 🐍 Contribution Snake
-
+## 🐍 Contribution Snake  
 ![snake](https://raw.githubusercontent.com/anushkanpathak/anushkanpathak/output/github-contribution-grid-snake.svg)
 
 ---
