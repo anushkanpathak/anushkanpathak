@@ -89,11 +89,14 @@
 
 ### 📝 SmartNotes
 
-*AI notes application*
+*AI-powered intelligent note management system*
 
-🔹 React + Node.js
-🔹 AI summarization
-🔹 SQLite storage
+Full-stack application that enables users to create, manage, and summarize notes using AI. Designed with a responsive UI and efficient backend APIs for real-time interactions.
+
+🔹 Rich note editor with CRUD operations
+🔹 AI-based summarization using LLM API
+🔹 Optimized data storage with SQLite
+🔹 RESTful backend with modular architecture
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react"/>
@@ -129,7 +132,6 @@ Frontend → Backend API → ML Models
 * Placement Model → (https://github.com/anushkanpathak/placement_ml_model)
 
 
-  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github"/>
 </a>
 
 
