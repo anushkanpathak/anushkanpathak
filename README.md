@@ -195,7 +195,7 @@ Frontend → Backend API → ML Models
 
 ## 📫 Connect
 
-* LinkedIn: (add link)
+* LinkedIn: (https://www.linkedin.com/in/anushkanpathak21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 * Email: [anushkanpathak21@gmail.com](mailto:anushkanpathak21@gmail.com)
 
 ---
