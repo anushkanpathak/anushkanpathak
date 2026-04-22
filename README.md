@@ -113,39 +113,20 @@
 
 *AI-powered student analytics platform*
 
-### 🧠 Core Modules
+### 🧠 Modules
+• Complaint Intelligence
+• Attendance Analysis
+• Placement Prediction
 
-🔹 **Complaint Intelligence System**
+🏗️ Architecture
+Frontend → Backend API → ML Models
 
-* Classifies student complaints
-* Detects trends using NLP
-* Helps identify major issues
-
-🔹 **Attendance Analysis System**
-
-* Tracks attendance patterns
-* Predicts risk of low attendance
-* Generates insights for improvement
-
-🔹 **Placement Prediction System**
-
-* Predicts placement probability
-* Uses ML models on student data
-* Provides career insights
-
----
-
-### 🏗️ Architecture
-
-Frontend → Backend API → ML Models (3 services)
-
----
 
 ### 🔗 Model Services
 
-* Complaint Model → <a href="https://github.com/anushkanpathak/complaint_ml_fastapi">
-* Attendance Model → <a href="https://github.com/anushkanpathak/attendance_ml_api">
-* Placement Model → <a href="https://github.com/anushkanpathak/placement_ml_model">
+* Complaint Model → (https://github.com/anushkanpathak/complaint_ml_fastapi)
+* Attendance Model → (https://github.com/anushkanpathak/attendance_ml_api)
+* Placement Model → (https://github.com/anushkanpathak/placement_ml_model)
 
 
   <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github"/>
