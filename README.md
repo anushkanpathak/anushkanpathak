@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
 </p>
 
-<a href="https://github.com/anushkanpathak/hospital_management_backend">
+<a href="https://github.com/anushkanpathak/hostel_management_backend">
   <img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github"/>
 </a>
 
