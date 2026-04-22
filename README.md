@@ -120,7 +120,11 @@
   <img src="https://img.shields.io/badge/ML-FFB300?style=flat"/>
   <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat"/>
 </p>
+## 🔗 Model Services
 
+- Complaint Classifier → [https://github.com/anushkanpathak/complaint_ml_fastapi]
+- Placement Predictor → [https://github.com/anushkanpathak/placement_ml_model]
+- attendance Analyzer → [https://github.com/anushkanpathak/attendance_ml_api]
 <a href="YOUR_REPO_LINK">
   <img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github"/>
 </a>
