@@ -24,12 +24,41 @@
 * Focused on real-world scalable applications
 
 ---
+## 🛠️ Tech Stack
 
-## ⚙️ Tech Stack
+### 👩‍💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,nodejs,react,postgresql,git" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
+</p>
+
+### 🧠 AI / ML
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+</p>
+
+
 
 ---
 
@@ -174,3 +203,37 @@ Frontend → Backend API → ML Models
 ## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/anushkanpathak/anushkanpathak/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💡 Engineering Philosophy
+
+> *"Build systems that scale before they need to."*
+> *"Write code your future self can read at 2 AM."*
+
+I focus on **clean architecture, scalable backend systems, and real-world problem solving** — not just building features, but building systems that perform under load.
+
+---
+
+<p align="center">
+  <b>Open to Backend & AI Engineering Roles</b><br><br>
+  Let's build something impactful 🚀  
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is read more often than it is written."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="500"/>
+</p>
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkanpathak&theme=tokyo-night"/>
+</p>
