@@ -33,28 +33,104 @@
 
 ---
 
-## 🔥 Featured Projects
+
+
+## 🚀 Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&size=25&center=true&vCenter=true&width=500&lines=My+Projects+%F0%9F%94%A5;Building+Real+World+Systems;AI+%2B+Backend+Engineering"/>
+</p>
+<table>
+<tr>
+<td width="50%">
 
 ### 🏥 Hospital Management System
 
-* Scalable backend with patients, doctors, appointments
-* PostgreSQL + SQLAlchemy integration
-* Automated reminders
+*Scalable backend system*
 
-### 🤖 GitHub RAG Debugging Assistant
+🔹 FastAPI + PostgreSQL
+🔹 Appointment + reminders
+🔹 REST API architecture
 
-* Repo analysis using embeddings
-* AI debugging + architecture insights
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
+</p>
+
+<a href="https://github.com/anushkanpathak/hospital_management_backend">
+  <img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 GitHub RAG Assistant
+
+*AI-powered repo analysis*
+
+🔹 Embeddings + semantic search
+🔹 Debugging insights
+🔹 Architecture explanation
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-FF6F61?style=flat"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat"/>
+</p>
+
+<a href="https://github.com/anushkanpathak/rag-chatbot">
+  <img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📝 SmartNotes
 
-* Full-stack app (React + Node.js)
-* AI-powered summarization
+*AI notes application*
+
+🔹 React + Node.js
+🔹 AI summarization
+🔹 SQLite storage
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+</p>
+
+<a href="https://github.com/anushkanpathak/smartnotes">
+  <img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🎓 Campus Companion
 
-* AI-driven analytics platform
-* ML + NLP based recommendations
+*AI analytics platform*
+
+🔹 ML + NLP insights
+🔹 Recommendation engine
+🔹 Backend APIs
+
+<p>
+  <img src="https://img.shields.io/badge/ML-FFB300?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat"/>
+</p>
+
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
