@@ -108,26 +108,49 @@
 
 <td width="50%">
 
-### 🎓 Campus Companion
 
-*AI analytics platform*
+## 🎓 Campus Companion
 
-🔹 ML + NLP insights
-🔹 Recommendation engine
-🔹 Backend APIs
+*AI-powered student analytics platform*
 
-<p>
-  <img src="https://img.shields.io/badge/ML-FFB300?style=flat"/>
-  <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat"/>
-</p>
-## 🔗 Model Services
+### 🧠 Core Modules
 
-- Complaint Classifier → [https://github.com/anushkanpathak/complaint_ml_fastapi]
-- Placement Predictor → [https://github.com/anushkanpathak/placement_ml_model]
-- attendance Analyzer → [https://github.com/anushkanpathak/attendance_ml_api]
-<a href="YOUR_REPO_LINK">
-  <img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github"/>
+🔹 **Complaint Intelligence System**
+
+* Classifies student complaints
+* Detects trends using NLP
+* Helps identify major issues
+
+🔹 **Attendance Analysis System**
+
+* Tracks attendance patterns
+* Predicts risk of low attendance
+* Generates insights for improvement
+
+🔹 **Placement Prediction System**
+
+* Predicts placement probability
+* Uses ML models on student data
+* Provides career insights
+
+---
+
+### 🏗️ Architecture
+
+Frontend → Backend API → ML Models (3 services)
+
+---
+
+### 🔗 Model Services
+
+* Complaint Model → <a href="https://github.com/anushkanpathak/complaint_ml_fastapi">
+* Attendance Model → <a href="https://github.com/anushkanpathak/attendance_ml_api">
+* Placement Model → <a href="https://github.com/anushkanpathak/placement_ml_model">
+
+
+  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github"/>
 </a>
+
 
 </td>
 </tr>
